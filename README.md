@@ -3,7 +3,7 @@
 ```
 
 > git clone https://github.com/testcodingskill/receipe-app.git
-> cd recipe-app
+> cd receipe-app
 > npm install
 > ng serve
 
